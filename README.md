@@ -1,3 +1,21 @@
+# Finance Dashboard
+
+A simple React-based finance dashboard to track income, expenses, and transactions.
+
+## Features
+- Dashboard summary (Balance, Income, Expense)
+- Transaction list with search
+- Role-based UI (Admin / Viewer)
+- Basic insights
+
+## Tech Stack
+- React.js
+- Vite
+- JavaScript
+
+## How to Run
+npm install
+npm run dev
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
